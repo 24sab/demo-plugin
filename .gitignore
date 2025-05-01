@@ -1,0 +1,9 @@
+# WordPress plugin .gitignore
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+node_modules/
+vendor/
+wp-config.php
